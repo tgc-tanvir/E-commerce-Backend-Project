@@ -1,0 +1,16 @@
+E:\Semester Resources\.Net tasks\E-commerce\BLL\bin\Debug\BLL.dll
+E:\Semester Resources\.Net tasks\E-commerce\BLL\bin\Debug\BLL.pdb
+E:\Semester Resources\.Net tasks\E-commerce\BLL\bin\Debug\AutoMapper.dll
+E:\Semester Resources\.Net tasks\E-commerce\BLL\bin\Debug\DAL.dll
+E:\Semester Resources\.Net tasks\E-commerce\BLL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Semester Resources\.Net tasks\E-commerce\BLL\bin\Debug\EntityFramework.dll
+E:\Semester Resources\.Net tasks\E-commerce\BLL\bin\Debug\DAL.pdb
+E:\Semester Resources\.Net tasks\E-commerce\BLL\bin\Debug\DAL.dll.config
+E:\Semester Resources\.Net tasks\E-commerce\BLL\bin\Debug\AutoMapper.xml
+E:\Semester Resources\.Net tasks\E-commerce\BLL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Semester Resources\.Net tasks\E-commerce\BLL\bin\Debug\EntityFramework.xml
+E:\Semester Resources\.Net tasks\E-commerce\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Semester Resources\.Net tasks\E-commerce\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Semester Resources\.Net tasks\E-commerce\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Semester Resources\.Net tasks\E-commerce\BLL\obj\Debug\BLL.dll
+E:\Semester Resources\.Net tasks\E-commerce\BLL\obj\Debug\BLL.pdb
