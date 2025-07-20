@@ -4,7 +4,7 @@ This is a modular,layered e-commerce backend developed using **ASP.NET Web API**
 
 ## 🔐 Key Features
 
-- ✅ **JWT Authentication** with role-based access control(Customer & Admin)
+- ✅ **JWT Authentication** with role-based access control(Customer & Employee)
 - 🛍️ **CRUD Operations** for Products, Orders, Customers and Employees
 - 📤 **Product Image Upload** using multipart/form-data
 - 📧 **SMTP Email Notifications** with logging into the database
